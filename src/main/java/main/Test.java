@@ -25,7 +25,7 @@ public class Test {
 		if(usu==null){
 			System.out.println("El usuario no existe");
 		}else{
-			System.out.println("Bienvenido " + usu.getNomUsua());
+			System.out.println("Bienvenido " + usu.getNomUsua()+ " " + usu.getApeUsua());
 		}
 		
 		
